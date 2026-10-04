@@ -1,0 +1,16 @@
+node_modules
+.git
+.manus-logs
+dist
+server.log
+*.log
+.env
+.env.local
+references
+todo.md
+template.json
+vite.config.ts.bak
+start-dev.ps1
+drizzle
+*.zip
+output.txt
