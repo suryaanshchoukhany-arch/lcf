@@ -39,11 +39,6 @@ const members: Member[] = [
     image: '/images/doorknobs/atharv-pratap-singh.jpeg',
   },
   {
-    name: 'Suryaansh Khandelwal',
-    role: 'Vice President',
-    image: '/images/doorknobs/suryaansh-khandelwal.jpeg',
-  },
-  {
     name: 'Yuvraj Thakrar',
     role: 'Cultural Head',
     image: '/images/doorknobs/yuvraj-thakrar.jpeg',
